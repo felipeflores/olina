@@ -1,6 +1,0 @@
-
-Jsquid:S1612",Replace this lambda with a method reference.(ÖÿŠ´8˜‘”ÿ-
-hsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Üú£‚8˜‘”ÿ-
-Ksquid:S11726"(Remove this unused method parameter "t".(à‡¥´ÿÿÿÿÿ8¹ˆ—”ÿ-
-Esquid:S1172,"(Remove this unused method parameter "t".(ºÓj8¦Æ¢”ÿ-
-|squid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "t".(˜¸úŒşÿÿÿÿ8˜‘”ÿ-
