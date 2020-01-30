@@ -1,3 +1,4 @@
 
-msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ó»»ýùÿÿÿÿ8ŽÒ¦”ÿ-
-Ysquid:S1610"6Convert the abstract class "Entity" into an interface.(ó»»ýùÿÿÿÿ8ë™§”ÿ-
+Ysquid:S1610"6Convert the abstract class "Entity" into an interface.(ó»»ýùÿÿÿÿ8ë™§”ÿ-
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ó»»ýùÿÿÿÿ8ŽÒ¦”ÿ-
+asquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8ŒÛÖ”ÿ-

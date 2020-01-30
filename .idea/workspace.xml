@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e075c928-a4dc-48ba-b4d3-5bb1d2863d35" name="Default Changelist" comment="" />
+    <list default="true" id="e075c928-a4dc-48ba-b4d3-5bb1d2863d35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/916358adb199f3f19d38786f87d40a5ed2186d83" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/916358adb199f3f19d38786f87d40a5ed2186d83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0de9a12d2a15c56c6b57ec1b43551afedd69512" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0de9a12d2a15c56c6b57ec1b43551afedd69512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbb1d1204b20a252095119b06051e0c86832e375" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbb1d1204b20a252095119b06051e0c86832e375" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X50WWgdM5UjQgLlhQMAVi1Irfh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/visualvm_144/bin/visualvm" />
   </component>
   <component name="RecentsManager">
@@ -41,5 +54,23 @@
       <updated>1580320679316</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="335" key="GridCell.Tab.0.bottom" timestamp="1580392636138">
+      <screen x="1920" y="180" width="1440" height="900" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.180.1440.900@1920.180.1440.900" timestamp="1580392636138" />
+    <state width="1398" height="335" key="GridCell.Tab.0.center" timestamp="1580392636138">
+      <screen x="1920" y="180" width="1440" height="900" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.center/0.40.1920.1040/1920.180.1440.900@1920.180.1440.900" timestamp="1580392636138" />
+    <state width="1398" height="335" key="GridCell.Tab.0.left" timestamp="1580392636138">
+      <screen x="1920" y="180" width="1440" height="900" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.left/0.40.1920.1040/1920.180.1440.900@1920.180.1440.900" timestamp="1580392636138" />
+    <state width="1398" height="335" key="GridCell.Tab.0.right" timestamp="1580392636138">
+      <screen x="1920" y="180" width="1440" height="900" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.right/0.40.1920.1040/1920.180.1440.900@1920.180.1440.900" timestamp="1580392636138" />
   </component>
 </project>
