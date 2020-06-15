@@ -1,7 +1,7 @@
-package org.olina.service;
+package io.github.felipeflores.service;
 
-import org.olina.domains.Entity;
-import org.olina.exception.ObjectNotFoundException;
+import io.github.felipeflores.domains.Entity;
+import io.github.felipeflores.exception.ObjectNotFoundException;
 import org.springframework.data.domain.Example;
 import org.springframework.data.domain.ExampleMatcher;
 import org.springframework.data.jpa.repository.JpaRepository;

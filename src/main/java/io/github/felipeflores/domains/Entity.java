@@ -1,4 +1,4 @@
-package org.olina.domains;
+package io.github.felipeflores.domains;
 
 import java.io.Serializable;
 

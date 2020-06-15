@@ -1,4 +1,4 @@
-package org.olina.exception;
+package io.github.felipeflores.exception;
 
 import java.util.HashMap;
 import java.util.Map;
