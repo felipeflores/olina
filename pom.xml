@@ -4,7 +4,7 @@
 
     <groupId>io.github.felipeflores</groupId>
     <artifactId>Olina</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -89,7 +89,7 @@
         <url>git@github.com:felipeflores/olina.git</url>
         <connection>scm:git:git@github.com:felipeflores/olina.git</connection>
         <developerConnection>scm:git:git@github.com:felipeflores/olina.git</developerConnection>
-        <tag>Olina-1.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
 
