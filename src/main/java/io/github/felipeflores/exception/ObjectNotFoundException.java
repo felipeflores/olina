@@ -3,12 +3,12 @@ package io.github.felipeflores.exception;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ObjectNotFoundException extends RuntimeException {
+public class ObjectNotFoundException extends BusinessException {
 
 	private static final long serialVersionUID = 1L;
 
 	public ObjectNotFoundException() {
-		super("Object Not Found");
+		this("Object Not Found");
 	}
 
 	public ObjectNotFoundException(String msg) {
