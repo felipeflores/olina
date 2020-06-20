@@ -1,21 +1,17 @@
 package io.github.felipeflores.service;
 
-import io.github.felipeflores.domains.Entity;
+import io.github.felipeflores.domains.BaseEntity;
 import io.github.felipeflores.exception.ObjectNotFoundException;
 import lombok.AccessLevel;
 import lombok.Getter;
 import org.modelmapper.ModelMapper;
-import org.modelmapper.config.Configuration;
-import org.springframework.data.domain.Example;
 import org.springframework.data.domain.ExampleMatcher;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
-public abstract class ListServiceAbstract<E extends Entity<ID>, ID, DTO, R extends JpaRepository<E, ID>> {
+public abstract class ListServiceAbstract<E extends BaseEntity<ID>, ID, DTO, R extends JpaRepository<E, ID>> {
 
     protected abstract R getRepository();
 

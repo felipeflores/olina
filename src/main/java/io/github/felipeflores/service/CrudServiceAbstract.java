@@ -1,10 +1,11 @@
 package io.github.felipeflores.service;
 
+import io.github.felipeflores.domains.BaseEntity;
 import io.github.felipeflores.exception.ObjectNotFoundException;
 import org.modelmapper.ModelMapper;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public abstract class CrudServiceAbstract<E, ID, DTO, R extends JpaRepository<E, ID>> extends ListServiceAbstract<E, ID, DTO, R> {
+public abstract class CrudServiceAbstract<E extends BaseEntity<ID>, ID, DTO, R extends JpaRepository<E, ID>> extends ListServiceAbstract<E, ID, DTO, R> {
 
     public CrudServiceAbstract(Class<E> clazz, Class<DTO> dtoClazz) {
         super(clazz, dtoClazz);
